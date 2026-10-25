@@ -11,6 +11,16 @@
       "zip_sha256": "8a9ba03b80c61feed7a69bd8755a9bf65d6c9a8c51cace23140b3874077feef6",
       "content_sha256": "4351e2f52448fb2bd8c0894c8ef2ef26e27059cf1e835cf432a8ac20740b5599",
       "download_path": "1983-retro-tribute-r2.zip"
+    },
+    {
+      "pack_id": "0d8b92b1-5ccf-4a3c-81c7-ff46e1d275a5",
+      "title": "1983 Codys Collectathon",
+      "revision": 1,
+      "level_count": 21,
+      "zip_bytes": 337404,
+      "zip_sha256": "06cee3aa3e368e299f496bd023bda55973a9337b6f90bcd0ac1f28e54882bed1",
+      "content_sha256": "64c2114af9520fb79eed2848823dc03fc0a98a86bf358a283b252800cc773f19",
+      "download_path": "1983-codys-collectathon-r1.zip"
     }
   ]
 }
