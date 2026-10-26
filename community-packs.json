@@ -3,14 +3,14 @@
   "format_version": 1,
   "packs": [
     {
-      "pack_id": "b41f03de-50d1-46b8-b5e2-94a2e6e27c9a",
+      "pack_id": "e1ec0b56-046a-437f-a5f2-720ab0404213",
       "title": "1983 Retro Tribute",
-      "revision": 2,
+      "revision": 1,
       "level_count": 20,
-      "zip_bytes": 264646,
-      "zip_sha256": "8a9ba03b80c61feed7a69bd8755a9bf65d6c9a8c51cace23140b3874077feef6",
-      "content_sha256": "4351e2f52448fb2bd8c0894c8ef2ef26e27059cf1e835cf432a8ac20740b5599",
-      "download_path": "1983-retro-tribute-r2.zip"
+      "zip_bytes": 264785,
+      "zip_sha256": "2581815fcc140b81b2697323e03ca49b10113a1e696dc5fa554bbfe92acb9b28",
+      "content_sha256": "daaeebc7e2dd7fce7407a22db03b1374793623f2574fe5c59f90c85273a4f517",
+      "download_path": "1983-retro-tribute-r1.zip"
     },
     {
       "pack_id": "0d8b92b1-5ccf-4a3c-81c7-ff46e1d275a5",
