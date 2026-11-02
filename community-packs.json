@@ -15,12 +15,32 @@
     {
       "pack_id": "0d8b92b1-5ccf-4a3c-81c7-ff46e1d275a5",
       "title": "1983 Codys Collectathon",
-      "revision": 1,
+      "revision": 2,
       "level_count": 21,
-      "zip_bytes": 337404,
-      "zip_sha256": "06cee3aa3e368e299f496bd023bda55973a9337b6f90bcd0ac1f28e54882bed1",
-      "content_sha256": "64c2114af9520fb79eed2848823dc03fc0a98a86bf358a283b252800cc773f19",
-      "download_path": "1983-codys-collectathon-r1.zip"
+      "zip_bytes": 337257,
+      "zip_sha256": "62bd52907e6ba959a2e4b4188567b8e364c075ffba274b1ab202ef11d848b3c7",
+      "content_sha256": "36964a764ff8e07aa37961e2c66b5a532f5ff58a13229227391367ff5e159ce5",
+      "download_path": "1983-codys-collectathon-r2.zip"
+    },
+    {
+      "pack_id": "65538a88-648e-4d6a-b947-39d307fd24fc",
+      "title": "The Lost Levels 2.0",
+      "revision": 1,
+      "level_count": 29,
+      "zip_bytes": 362483,
+      "zip_sha256": "8770e6d63b76a9c020fd4d693228736c0451055eecf0d7296a84f41901afe286",
+      "content_sha256": "eb05481f8b6e556fd27cab4931caccf7da2e599ae96d73e34d84b80f09bb56d5",
+      "download_path": "the-lost-levels-2-0-r1.zip"
+    },
+    {
+      "pack_id": "d2af144b-336c-4aa9-b343-4326936fdc51",
+      "title": "WillyWood",
+      "revision": 1,
+      "level_count": 18,
+      "zip_bytes": 312194,
+      "zip_sha256": "b63303c0f80d673fa8d8601e12dfbd8ae0e6db331b497497beb4b6ec2a2d3cc4",
+      "content_sha256": "a1ddefa0995308300928c8cb976ff8301bd98fa07c0c176c4005de84601ae330",
+      "download_path": "willywood-r1.zip"
     }
   ]
 }
