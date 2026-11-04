@@ -35,12 +35,12 @@
     {
       "pack_id": "d2af144b-336c-4aa9-b343-4326936fdc51",
       "title": "WillyWood",
-      "revision": 1,
+      "revision": 2,
       "level_count": 18,
-      "zip_bytes": 312194,
-      "zip_sha256": "b63303c0f80d673fa8d8601e12dfbd8ae0e6db331b497497beb4b6ec2a2d3cc4",
-      "content_sha256": "a1ddefa0995308300928c8cb976ff8301bd98fa07c0c176c4005de84601ae330",
-      "download_path": "willywood-r1.zip"
+      "zip_bytes": 312206,
+      "zip_sha256": "63adc7d7c318b9af5fd07a0e065ddd146ac946cf656d6b7091b41f60a47d2097",
+      "content_sha256": "10e64f692b3eb555aa1cb832e69c9d321c7df864333c1d91584e04426a5047e6",
+      "download_path": "willywood-r2.zip"
     }
   ]
 }
