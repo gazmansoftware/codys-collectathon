@@ -25,22 +25,22 @@
     {
       "pack_id": "65538a88-648e-4d6a-b947-39d307fd24fc",
       "title": "The Lost Levels 2.0",
-      "revision": 1,
+      "revision": 2,
       "level_count": 29,
-      "zip_bytes": 362483,
-      "zip_sha256": "8770e6d63b76a9c020fd4d693228736c0451055eecf0d7296a84f41901afe286",
-      "content_sha256": "eb05481f8b6e556fd27cab4931caccf7da2e599ae96d73e34d84b80f09bb56d5",
-      "download_path": "the-lost-levels-2-0-r1.zip"
+      "zip_bytes": 362503,
+      "zip_sha256": "3c3df31fc5b609a76350af34a0e1ea2de820e2cb3f98ac1e6f5e1ab94d24b983",
+      "content_sha256": "ee07fbfad330e09b7c833fa7dec0bb36c931d5ef466ff1883d42a733db34960e",
+      "download_path": "the-lost-levels-2-0-r2.zip"
     },
     {
       "pack_id": "d2af144b-336c-4aa9-b343-4326936fdc51",
       "title": "WillyWood",
-      "revision": 2,
+      "revision": 3,
       "level_count": 18,
-      "zip_bytes": 312206,
-      "zip_sha256": "63adc7d7c318b9af5fd07a0e065ddd146ac946cf656d6b7091b41f60a47d2097",
-      "content_sha256": "10e64f692b3eb555aa1cb832e69c9d321c7df864333c1d91584e04426a5047e6",
-      "download_path": "willywood-r2.zip"
+      "zip_bytes": 312386,
+      "zip_sha256": "ef4b65c781e90a6a15d71b6876f5862bde662922d6d787a57c55d3231b863fdc",
+      "content_sha256": "e031531713745d8ca4a4450914f1f102a812e408644ce8787d52419a00cfb479",
+      "download_path": "willywood-r3.zip"
     }
   ]
 }
