@@ -33,6 +33,16 @@
       "download_path": "jet-setter-cody-r3.zip"
     },
     {
+      "pack_id": "44c85581-1d80-41d5-810c-0bbffd1d80b6",
+      "title": "Jet Setter Cody II",
+      "revision": 1,
+      "level_count": 134,
+      "zip_bytes": 1148073,
+      "zip_sha256": "b607251a8573d511c75e820e24b300143588a7204e66c4e2c712401d587a9848",
+      "content_sha256": "c0edf3d9c64b67e352c0fe1749da97bf33015dc16715c516119c39386eb7a84f",
+      "download_path": "jet-setter-cody-ii-r1.zip"
+    },
+    {
       "pack_id": "65538a88-648e-4d6a-b947-39d307fd24fc",
       "title": "The Lost Levels 2.0",
       "revision": 2,
