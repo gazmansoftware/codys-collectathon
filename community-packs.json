@@ -3,6 +3,16 @@
   "format_version": 1,
   "packs": [
     {
+      "pack_id": "0d8b92b1-5ccf-4a3c-81c7-ff46e1d275a5",
+      "title": "1983 Codys Collectathon",
+      "revision": 2,
+      "level_count": 21,
+      "zip_bytes": 337257,
+      "zip_sha256": "62bd52907e6ba959a2e4b4188567b8e364c075ffba274b1ab202ef11d848b3c7",
+      "content_sha256": "36964a764ff8e07aa37961e2c66b5a532f5ff58a13229227391367ff5e159ce5",
+      "download_path": "1983-codys-collectathon-r2.zip"
+    },
+    {
       "pack_id": "e1ec0b56-046a-437f-a5f2-720ab0404213",
       "title": "1983 Retro Tribute",
       "revision": 1,
@@ -13,14 +23,14 @@
       "download_path": "1983-retro-tribute-r1.zip"
     },
     {
-      "pack_id": "0d8b92b1-5ccf-4a3c-81c7-ff46e1d275a5",
-      "title": "1983 Codys Collectathon",
-      "revision": 2,
-      "level_count": 21,
-      "zip_bytes": 337257,
-      "zip_sha256": "62bd52907e6ba959a2e4b4188567b8e364c075ffba274b1ab202ef11d848b3c7",
-      "content_sha256": "36964a764ff8e07aa37961e2c66b5a532f5ff58a13229227391367ff5e159ce5",
-      "download_path": "1983-codys-collectathon-r2.zip"
+      "pack_id": "abd770fa-c442-4990-aafb-4a603622dadd",
+      "title": "Jet Setter Cody",
+      "level_count": 64,
+      "revision": 1,
+      "zip_bytes": 638863,
+      "zip_sha256": "55ff9c669ec72fe14a308e949515fc825b1d471ae9d47f94f1c4c8515cec05a9",
+      "content_sha256": "da333e40b4596abd07d2625461642ae5e2ae29bce9a749f0ad013ba5d44a86d5",
+      "download_path": "jet-setter-cody-r1.zip"
     },
     {
       "pack_id": "65538a88-648e-4d6a-b947-39d307fd24fc",
