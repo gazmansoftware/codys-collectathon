@@ -26,21 +26,21 @@
       "pack_id": "abd770fa-c442-4990-aafb-4a603622dadd",
       "title": "Jet Setter Cody",
       "level_count": 64,
-      "revision": 4,
-      "zip_bytes": 1023367,
-      "zip_sha256": "fff28db0bebd5d6f4623138daa642c4eb4b52ae41447036585a116caf409932a",
-      "content_sha256": "4d2dbe0e766add3655e00b04b2897bc3585dfa8cc67d8a2e050b46c6f3e982b9",
-      "download_path": "jet-setter-cody-r4.zip"
+      "revision": 5,
+      "zip_bytes": 2569248,
+      "zip_sha256": "386e38f1b1ca5987cdece5c027fa1a6807f08712cafc5fac17f0bef77ef0ced5",
+      "content_sha256": "4ef2752cc2155d1704128fb7c68de1943bd6dfe4c230a0b75f5ff0f1ff6cf048",
+      "download_path": "jet-setter-cody-r5.zip"
     },
     {
       "pack_id": "44c85581-1d80-41d5-810c-0bbffd1d80b6",
       "title": "Jet Setter Cody II",
-      "revision": 2,
+      "revision": 3,
       "level_count": 134,
-      "zip_bytes": 1605084,
-      "zip_sha256": "50314e1454c4266b1a754259a8ca188e5a31b17c89af76eadd40deb36a5c4eba",
-      "content_sha256": "7737b0119057a177c3fe4ef75bc0c7bd7947f313ce1708003a1f674afdaefc83",
-      "download_path": "jet-setter-cody-ii-r2.zip"
+      "zip_bytes": 3735785,
+      "zip_sha256": "5344bcaadd72037d577156b68966ae3c2db942d704300c4b137ed2909c92dde3",
+      "content_sha256": "9f4416cd2a97c5cb04ef114ca744c96d1067b682ea80f99cace7905ee5d8bc95",
+      "download_path": "jet-setter-cody-ii-r3.zip"
     },
     {
       "pack_id": "65538a88-648e-4d6a-b947-39d307fd24fc",
