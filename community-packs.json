@@ -26,31 +26,31 @@
       "pack_id": "abd770fa-c442-4990-aafb-4a603622dadd",
       "title": "Jet Setter Cody",
       "level_count": 64,
-      "revision": 5,
-      "zip_bytes": 2569248,
-      "zip_sha256": "386e38f1b1ca5987cdece5c027fa1a6807f08712cafc5fac17f0bef77ef0ced5",
-      "content_sha256": "4ef2752cc2155d1704128fb7c68de1943bd6dfe4c230a0b75f5ff0f1ff6cf048",
-      "download_path": "jet-setter-cody-r5.zip"
+      "revision": 6,
+      "zip_bytes": 2569312,
+      "zip_sha256": "7cdfbbf682f808bb29841b4e71360b625d53a93ee60ee07bf4b6a0ef553a59d4",
+      "content_sha256": "bd8a4f180d1dc17720dfce0fde3d5948b25cda44a59325c0dad6464995cdc5c1",
+      "download_path": "jet-setter-cody-r6.zip"
     },
     {
       "pack_id": "44c85581-1d80-41d5-810c-0bbffd1d80b6",
       "title": "Jet Setter Cody II",
-      "revision": 3,
+      "revision": 4,
       "level_count": 134,
-      "zip_bytes": 3735785,
-      "zip_sha256": "5344bcaadd72037d577156b68966ae3c2db942d704300c4b137ed2909c92dde3",
-      "content_sha256": "9f4416cd2a97c5cb04ef114ca744c96d1067b682ea80f99cace7905ee5d8bc95",
-      "download_path": "jet-setter-cody-ii-r3.zip"
+      "zip_bytes": 3735849,
+      "zip_sha256": "99d4a95677a372d3b1fa9f1b690b02a7429dd1803895b4a82d86126a83269e0b",
+      "content_sha256": "fc3c36a446ad0f41006976d7b3301d94de9079e5d90ce5abf0819950356d9359",
+      "download_path": "jet-setter-cody-ii-r4.zip"
     },
     {
       "pack_id": "65538a88-648e-4d6a-b947-39d307fd24fc",
       "title": "The Lost Levels 2.0",
-      "revision": 2,
+      "revision": 3,
       "level_count": 29,
-      "zip_bytes": 362503,
-      "zip_sha256": "3c3df31fc5b609a76350af34a0e1ea2de820e2cb3f98ac1e6f5e1ab94d24b983",
-      "content_sha256": "ee07fbfad330e09b7c833fa7dec0bb36c931d5ef466ff1883d42a733db34960e",
-      "download_path": "the-lost-levels-2-0-r2.zip"
+      "zip_bytes": 362532,
+      "zip_sha256": "149119132792b56c9bc75d156d29f612c72697d0f4215a8cba2ef2cb1b9ccfa3",
+      "content_sha256": "7b9cf1eea99553e4a03e5dc7aba0b44dda064279b61ca62602f941ded8c59d8b",
+      "download_path": "the-lost-levels-2-0-r3.zip"
     },
     {
       "pack_id": "d2af144b-336c-4aa9-b343-4326936fdc51",
